@@ -1,0 +1,1202 @@
+{
+  "data_MP2_6-311__G": {
+    "system_000": [
+      "bench_1/data_MP2_6-311__G/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_000/data_MP2_6-311__G_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311__G/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_001/data_MP2_6-311__G_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311__G/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_002/data_MP2_6-311__G_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311__G/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_003/data_MP2_6-311__G_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311__G/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_004/data_MP2_6-311__G_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311__G/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_005/data_MP2_6-311__G_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311__G/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_006/data_MP2_6-311__G_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311__G/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_007/data_MP2_6-311__G_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311__G/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_008/data_MP2_6-311__G_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311__G/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_009/data_MP2_6-311__G_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311__G/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_010/data_MP2_6-311__G_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311__G/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311__G/system_011/data_MP2_6-311__G_system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311__G_2d_2p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_000/data_MP2_6-311__G_2d_2p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_001/data_MP2_6-311__G_2d_2p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_002/data_MP2_6-311__G_2d_2p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_003/data_MP2_6-311__G_2d_2p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_004/data_MP2_6-311__G_2d_2p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_005/data_MP2_6-311__G_2d_2p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_006/data_MP2_6-311__G_2d_2p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_007/data_MP2_6-311__G_2d_2p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_008/data_MP2_6-311__G_2d_2p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_009/data_MP2_6-311__G_2d_2p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_010/data_MP2_6-311__G_2d_2p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_2p_/system_011/data_MP2_6-311__G_2d_2p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311__G_2d_3p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_000/data_MP2_6-311__G_2d_3p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_001/data_MP2_6-311__G_2d_3p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_002/data_MP2_6-311__G_2d_3p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_003/data_MP2_6-311__G_2d_3p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_004/data_MP2_6-311__G_2d_3p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_005/data_MP2_6-311__G_2d_3p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_006/data_MP2_6-311__G_2d_3p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_007/data_MP2_6-311__G_2d_3p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_008/data_MP2_6-311__G_2d_3p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_009/data_MP2_6-311__G_2d_3p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_010/data_MP2_6-311__G_2d_3p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_3p_/system_011/data_MP2_6-311__G_2d_3p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311__G_2d_pd_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_000/data_MP2_6-311__G_2d_pd__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_001/data_MP2_6-311__G_2d_pd__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_002/data_MP2_6-311__G_2d_pd__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_003/data_MP2_6-311__G_2d_pd__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_004/data_MP2_6-311__G_2d_pd__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_005/data_MP2_6-311__G_2d_pd__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_006/data_MP2_6-311__G_2d_pd__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_007/data_MP2_6-311__G_2d_pd__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_008/data_MP2_6-311__G_2d_pd__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_009/data_MP2_6-311__G_2d_pd__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_010/data_MP2_6-311__G_2d_pd__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311__G_2d_pd_/system_011/data_MP2_6-311__G_2d_pd__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311__G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_000/data_MP2_6-311__G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_001/data_MP2_6-311__G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_002/data_MP2_6-311__G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_003/data_MP2_6-311__G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_004/data_MP2_6-311__G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_005/data_MP2_6-311__G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_006/data_MP2_6-311__G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_007/data_MP2_6-311__G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_008/data_MP2_6-311__G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_009/data_MP2_6-311__G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_010/data_MP2_6-311__G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311__G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311__G_d_p_/system_011/data_MP2_6-311__G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311_G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_000/data_MP2_6-311_G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_001/data_MP2_6-311_G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_002/data_MP2_6-311_G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_003/data_MP2_6-311_G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_004/data_MP2_6-311_G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_005/data_MP2_6-311_G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_006/data_MP2_6-311_G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_007/data_MP2_6-311_G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_008/data_MP2_6-311_G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_009/data_MP2_6-311_G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_010/data_MP2_6-311_G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311_G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311_G_d_p_/system_011/data_MP2_6-311_G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311G__2d_2p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_000/data_MP2_6-311G__2d_2p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_001/data_MP2_6-311G__2d_2p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_002/data_MP2_6-311G__2d_2p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_003/data_MP2_6-311G__2d_2p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_004/data_MP2_6-311G__2d_2p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_005/data_MP2_6-311G__2d_2p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_006/data_MP2_6-311G__2d_2p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_007/data_MP2_6-311G__2d_2p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_008/data_MP2_6-311G__2d_2p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_009/data_MP2_6-311G__2d_2p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_010/data_MP2_6-311G__2d_2p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311G__2d_2p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311G__2d_2p_/system_011/data_MP2_6-311G__2d_2p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311G___3d_pd_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_000/data_MP2_6-311G___3d_pd__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_001/data_MP2_6-311G___3d_pd__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_002/data_MP2_6-311G___3d_pd__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_003/data_MP2_6-311G___3d_pd__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_004/data_MP2_6-311G___3d_pd__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_005/data_MP2_6-311G___3d_pd__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_006/data_MP2_6-311G___3d_pd__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_007/data_MP2_6-311G___3d_pd__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_008/data_MP2_6-311G___3d_pd__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_009/data_MP2_6-311G___3d_pd__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_010/data_MP2_6-311G___3d_pd__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311G___3d_pd_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311G___3d_pd_/system_011/data_MP2_6-311G___3d_pd__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-311G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-311G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_000/data_MP2_6-311G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-311G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_001/data_MP2_6-311G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-311G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_002/data_MP2_6-311G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-311G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_003/data_MP2_6-311G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-311G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_004/data_MP2_6-311G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-311G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_005/data_MP2_6-311G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-311G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_006/data_MP2_6-311G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-311G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_007/data_MP2_6-311G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-311G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_008/data_MP2_6-311G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-311G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_009/data_MP2_6-311G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-311G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_010/data_MP2_6-311G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-311G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-311G_d_p_/system_011/data_MP2_6-311G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31__G": {
+    "system_000": [
+      "bench_1/data_MP2_6-31__G/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_000/data_MP2_6-31__G_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31__G/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_001/data_MP2_6-31__G_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31__G/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_002/data_MP2_6-31__G_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31__G/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_003/data_MP2_6-31__G_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31__G/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_004/data_MP2_6-31__G_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31__G/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_005/data_MP2_6-31__G_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31__G/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_006/data_MP2_6-31__G_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31__G/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_007/data_MP2_6-31__G_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31__G/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_008/data_MP2_6-31__G_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31__G/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_009/data_MP2_6-31__G_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31__G/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_010/data_MP2_6-31__G_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31__G/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31__G/system_011/data_MP2_6-31__G_system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31__G_2d_dp_": {
+    "system_000": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_000/data_MP2_6-31__G_2d_dp__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_001/data_MP2_6-31__G_2d_dp__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_002/data_MP2_6-31__G_2d_dp__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_003/data_MP2_6-31__G_2d_dp__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_004/data_MP2_6-31__G_2d_dp__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_005/data_MP2_6-31__G_2d_dp__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_006/data_MP2_6-31__G_2d_dp__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_007/data_MP2_6-31__G_2d_dp__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_008/data_MP2_6-31__G_2d_dp__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_009/data_MP2_6-31__G_2d_dp__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_010/data_MP2_6-31__G_2d_dp__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31__G_2d_dp_/system_011/data_MP2_6-31__G_2d_dp__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31__G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_000/data_MP2_6-31__G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_001/data_MP2_6-31__G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_002/data_MP2_6-31__G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_003/data_MP2_6-31__G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_004/data_MP2_6-31__G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_005/data_MP2_6-31__G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_006/data_MP2_6-31__G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_007/data_MP2_6-31__G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_008/data_MP2_6-31__G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_009/data_MP2_6-31__G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_010/data_MP2_6-31__G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31__G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31__G_d_p_/system_011/data_MP2_6-31__G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31_G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_000/data_MP2_6-31_G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_001/data_MP2_6-31_G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_002/data_MP2_6-31_G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_003/data_MP2_6-31_G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_004/data_MP2_6-31_G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_005/data_MP2_6-31_G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_006/data_MP2_6-31_G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_007/data_MP2_6-31_G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_008/data_MP2_6-31_G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_009/data_MP2_6-31_G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_010/data_MP2_6-31_G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31_G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31_G_d_p_/system_011/data_MP2_6-31_G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31G__2d_2p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_000/data_MP2_6-31G__2d_2p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_001/data_MP2_6-31G__2d_2p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_002/data_MP2_6-31G__2d_2p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_003/data_MP2_6-31G__2d_2p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_004/data_MP2_6-31G__2d_2p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_005/data_MP2_6-31G__2d_2p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_006/data_MP2_6-31G__2d_2p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_007/data_MP2_6-31G__2d_2p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_008/data_MP2_6-31G__2d_2p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_009/data_MP2_6-31G__2d_2p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_010/data_MP2_6-31G__2d_2p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31G__2d_2p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31G__2d_2p_/system_011/data_MP2_6-31G__2d_2p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_6-31G_d_p_": {
+    "system_000": [
+      "bench_1/data_MP2_6-31G_d_p_/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_000/data_MP2_6-31G_d_p__system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_6-31G_d_p_/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_001/data_MP2_6-31G_d_p__system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_6-31G_d_p_/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_002/data_MP2_6-31G_d_p__system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_6-31G_d_p_/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_003/data_MP2_6-31G_d_p__system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_6-31G_d_p_/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_004/data_MP2_6-31G_d_p__system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_6-31G_d_p_/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_005/data_MP2_6-31G_d_p__system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_6-31G_d_p_/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_006/data_MP2_6-31G_d_p__system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_6-31G_d_p_/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_007/data_MP2_6-31G_d_p__system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_6-31G_d_p_/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_008/data_MP2_6-31G_d_p__system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_6-31G_d_p_/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_009/data_MP2_6-31G_d_p__system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_6-31G_d_p_/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_010/data_MP2_6-31G_d_p__system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_6-31G_d_p_/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_6-31G_d_p_/system_011/data_MP2_6-31G_d_p__system011_low.xyz"
+    ]
+  },
+  "data_MP2_aug-cc-pVDZ": {
+    "system_000": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_000/data_MP2_aug-cc-pVDZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_001/data_MP2_aug-cc-pVDZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_002/data_MP2_aug-cc-pVDZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_003/data_MP2_aug-cc-pVDZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_004/data_MP2_aug-cc-pVDZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_005/data_MP2_aug-cc-pVDZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_006/data_MP2_aug-cc-pVDZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_007/data_MP2_aug-cc-pVDZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_008/data_MP2_aug-cc-pVDZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_009/data_MP2_aug-cc-pVDZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_010/data_MP2_aug-cc-pVDZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_aug-cc-pVDZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_aug-cc-pVDZ/system_011/data_MP2_aug-cc-pVDZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_cc-pVDZ": {
+    "system_000": [
+      "bench_1/data_MP2_cc-pVDZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_000/data_MP2_cc-pVDZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_cc-pVDZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_001/data_MP2_cc-pVDZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_cc-pVDZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_002/data_MP2_cc-pVDZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_cc-pVDZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_003/data_MP2_cc-pVDZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_cc-pVDZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_004/data_MP2_cc-pVDZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_cc-pVDZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_005/data_MP2_cc-pVDZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_cc-pVDZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_006/data_MP2_cc-pVDZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_cc-pVDZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_007/data_MP2_cc-pVDZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_cc-pVDZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_008/data_MP2_cc-pVDZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_cc-pVDZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_009/data_MP2_cc-pVDZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_cc-pVDZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_010/data_MP2_cc-pVDZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_cc-pVDZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_cc-pVDZ/system_011/data_MP2_cc-pVDZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_cc-pVTZ": {
+    "system_000": [
+      "bench_1/data_MP2_cc-pVTZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_000/data_MP2_cc-pVTZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_cc-pVTZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_001/data_MP2_cc-pVTZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_cc-pVTZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_002/data_MP2_cc-pVTZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_cc-pVTZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_003/data_MP2_cc-pVTZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_cc-pVTZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_004/data_MP2_cc-pVTZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_cc-pVTZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_005/data_MP2_cc-pVTZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_cc-pVTZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_006/data_MP2_cc-pVTZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_cc-pVTZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_007/data_MP2_cc-pVTZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_cc-pVTZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_008/data_MP2_cc-pVTZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_cc-pVTZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_009/data_MP2_cc-pVTZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_cc-pVTZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_010/data_MP2_cc-pVTZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_cc-pVTZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_cc-pVTZ/system_011/data_MP2_cc-pVTZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_gen_svpd": {
+    "system_000": [
+      "bench_1/data_MP2_gen_svpd/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_000/data_MP2_gen_svpd_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_gen_svpd/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_001/data_MP2_gen_svpd_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_gen_svpd/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_002/data_MP2_gen_svpd_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_gen_svpd/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_003/data_MP2_gen_svpd_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_gen_svpd/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_004/data_MP2_gen_svpd_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_gen_svpd/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_005/data_MP2_gen_svpd_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_gen_svpd/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_006/data_MP2_gen_svpd_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_gen_svpd/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_007/data_MP2_gen_svpd_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_gen_svpd/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_008/data_MP2_gen_svpd_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_gen_svpd/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_009/data_MP2_gen_svpd_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_gen_svpd/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_010/data_MP2_gen_svpd_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_gen_svpd/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_gen_svpd/system_011/data_MP2_gen_svpd_system011_low.xyz"
+    ]
+  },
+  "data_MP2_gen_tzvppd": {
+    "system_000": [
+      "bench_1/data_MP2_gen_tzvppd/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_000/data_MP2_gen_tzvppd_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_gen_tzvppd/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_001/data_MP2_gen_tzvppd_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_gen_tzvppd/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_002/data_MP2_gen_tzvppd_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_gen_tzvppd/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_003/data_MP2_gen_tzvppd_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_gen_tzvppd/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_004/data_MP2_gen_tzvppd_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_gen_tzvppd/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_005/data_MP2_gen_tzvppd_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_gen_tzvppd/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_006/data_MP2_gen_tzvppd_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_gen_tzvppd/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_007/data_MP2_gen_tzvppd_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_gen_tzvppd/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_008/data_MP2_gen_tzvppd_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_gen_tzvppd/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_009/data_MP2_gen_tzvppd_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_gen_tzvppd/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_010/data_MP2_gen_tzvppd_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_gen_tzvppd/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_gen_tzvppd/system_011/data_MP2_gen_tzvppd_system011_low.xyz"
+    ]
+  },
+  "data_MP2_jul-cc-pVDZ": {
+    "system_000": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_000/data_MP2_jul-cc-pVDZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_001/data_MP2_jul-cc-pVDZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_002/data_MP2_jul-cc-pVDZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_003/data_MP2_jul-cc-pVDZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_004/data_MP2_jul-cc-pVDZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_005/data_MP2_jul-cc-pVDZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_006/data_MP2_jul-cc-pVDZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_007/data_MP2_jul-cc-pVDZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_008/data_MP2_jul-cc-pVDZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_009/data_MP2_jul-cc-pVDZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_010/data_MP2_jul-cc-pVDZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_jul-cc-pVDZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_jul-cc-pVDZ/system_011/data_MP2_jul-cc-pVDZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_jun-cc-pVDZ": {
+    "system_000": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_000/data_MP2_jun-cc-pVDZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_001/data_MP2_jun-cc-pVDZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_002/data_MP2_jun-cc-pVDZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_003/data_MP2_jun-cc-pVDZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_004/data_MP2_jun-cc-pVDZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_005/data_MP2_jun-cc-pVDZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_006/data_MP2_jun-cc-pVDZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_007/data_MP2_jun-cc-pVDZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_008/data_MP2_jun-cc-pVDZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_009/data_MP2_jun-cc-pVDZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_010/data_MP2_jun-cc-pVDZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_jun-cc-pVDZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_jun-cc-pVDZ/system_011/data_MP2_jun-cc-pVDZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_may-cc-pVDZ": {
+    "system_000": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_000/data_MP2_may-cc-pVDZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_001/data_MP2_may-cc-pVDZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_002/data_MP2_may-cc-pVDZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_003/data_MP2_may-cc-pVDZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_004/data_MP2_may-cc-pVDZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_005/data_MP2_may-cc-pVDZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_006/data_MP2_may-cc-pVDZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_007/data_MP2_may-cc-pVDZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_008/data_MP2_may-cc-pVDZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_009/data_MP2_may-cc-pVDZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_010/data_MP2_may-cc-pVDZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_may-cc-pVDZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_may-cc-pVDZ/system_011/data_MP2_may-cc-pVDZ_system011_low.xyz"
+    ]
+  },
+  "data_MP2_may-cc-pVTZ": {
+    "system_000": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_000/data_high_MP2_aug-cc-pVTZ_system000_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_000/data_MP2_may-cc-pVTZ_system000_low.xyz"
+    ],
+    "system_001": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_001/data_high_MP2_aug-cc-pVTZ_system001_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_001/data_MP2_may-cc-pVTZ_system001_low.xyz"
+    ],
+    "system_002": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_002/data_high_MP2_aug-cc-pVTZ_system002_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_002/data_MP2_may-cc-pVTZ_system002_low.xyz"
+    ],
+    "system_003": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_003/data_high_MP2_aug-cc-pVTZ_system003_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_003/data_MP2_may-cc-pVTZ_system003_low.xyz"
+    ],
+    "system_004": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_004/data_high_MP2_aug-cc-pVTZ_system004_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_004/data_MP2_may-cc-pVTZ_system004_low.xyz"
+    ],
+    "system_005": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_005/data_high_MP2_aug-cc-pVTZ_system005_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_005/data_MP2_may-cc-pVTZ_system005_low.xyz"
+    ],
+    "system_006": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_006/data_high_MP2_aug-cc-pVTZ_system006_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_006/data_MP2_may-cc-pVTZ_system006_low.xyz"
+    ],
+    "system_007": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_007/data_high_MP2_aug-cc-pVTZ_system007_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_007/data_MP2_may-cc-pVTZ_system007_low.xyz"
+    ],
+    "system_008": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_008/data_high_MP2_aug-cc-pVTZ_system008_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_008/data_MP2_may-cc-pVTZ_system008_low.xyz"
+    ],
+    "system_009": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_009/data_high_MP2_aug-cc-pVTZ_system009_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_009/data_MP2_may-cc-pVTZ_system009_low.xyz"
+    ],
+    "system_010": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_010/data_high_MP2_aug-cc-pVTZ_system010_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_010/data_MP2_may-cc-pVTZ_system010_low.xyz"
+    ],
+    "system_011": [
+      "bench_1/data_MP2_may-cc-pVTZ/system_011/data_high_MP2_aug-cc-pVTZ_system011_high.xyz",
+      "bench_1/data_MP2_may-cc-pVTZ/system_011/data_MP2_may-cc-pVTZ_system011_low.xyz"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+*{box-sizing:border-box;font-family:Inter,Segoe UI,Arial,Helvetica,sans-serif}
+#app{height:100vh;display:flex;flex-direction:column}
+body{margin:0;font-family:Inter,Segoe UI,Arial,Helvetica,sans-serif}
+.viewer{flex:1;position:relative;background:linear-gradient(180deg,#0f1720 0%, #111827 100%);color:#fff}
+#topbar{position:absolute;left:12px;top:12px;right:12px;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:50}
+#benchControls select, #benchControls button, #qrArea input, #qrArea button{padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);background:#ffffff; color:#111}
+#benchControls button, #qrArea button{background:#0ea5a4;border-color:rgba(0,0,0,0.08);cursor:pointer;color:#fff}
+#qrArea{display:flex;align-items:center;gap:8px}
+#qrcode{width:48px;height:48px}
+#canvasContainer{width:100%;height:100vh}
+.row{display:flex;gap:8px;margin-top:8px}
+label{color:#e6eef8}
+select{appearance:auto}
+@media(max-width:800px){#topbar{flex-direction:column;left:8px;right:8px}}

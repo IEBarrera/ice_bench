@@ -1,0 +1,15 @@
+# Node / VSCode / Python common ignores
+node_modules/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Data / bench args - ignore large datasets by default
+examples/
+
+# Local server
+.env
+
+# OS files
+Thumbs.db

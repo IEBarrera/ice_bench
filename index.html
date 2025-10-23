@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Visor XYZ Molecular</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- header removed for minimal viewer -->
+
+  <main>
+    <section class="viewer">
+      <div id="topbar">
+        <div id="benchControls">
+          <label style="margin-right:8px">Categoria
+            <select id="benchCategory"><option value="">-- Categoria --</option></select>
+          </label>
+          <label style="margin-right:8px">Sistema
+            <select id="benchSystem"><option value="">-- Sistema --</option></select>
+          </label>
+          <button id="benchLoadBtn">Cargar</button>
+        </div>
+        <div id="qrArea">
+          <input id="outUrl" readonly placeholder="Enlace generado" />
+          <button id="genQrBtn">QR</button>
+          <div id="qrcode"></div>
+          <label style="margin-left:12px"><input type="checkbox" id="ditherToggle" checked> Dither B</label>
+          <button id="dumpShaderBtn" title="Log compiled fragment shader for B">Dump shader</button>
+        </div>
+      </div>
+      <div id="canvasContainer"></div>
+    </section>
+  </main>
+
+  <!-- footer removed for minimal viewer -->
+
+  <!-- Dependencias desde CDN -->
+  <script src="https://unpkg.com/three@0.146.0/build/three.min.js"></script>
+  <script src="https://unpkg.com/three@0.146.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="https://unpkg.com/three@0.146.0/examples/js/postprocessing/EffectComposer.js"></script>
+  <script src="https://unpkg.com/three@0.146.0/examples/js/postprocessing/RenderPass.js"></script>
+  <script src="https://unpkg.com/three@0.146.0/examples/js/postprocessing/ShaderPass.js"></script>
+  <script src="https://unpkg.com/three@0.146.0/examples/js/shaders/CopyShader.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script src="viewer.js"></script>
+</body>
+</html>
