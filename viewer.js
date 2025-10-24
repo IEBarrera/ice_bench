@@ -15,8 +15,22 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
   const BG_COLOR = 0x08101a;
   const GLOBAL_SATURATION = 3.5;
-  const elementColors = { H:0xffffff, C:0x9aa6b2, N:0x6ea0ff, O:0xff6b6b, S:0xffd86b, P:0xffa966, F:0x9fe39f, Cl:0x66d07a };
-  const covRad = { H:0.31, C:0.76, N:0.71, O:0.66, S:1.05, P:1.07, F:0.57, Cl:1.02 };
+  // User-specified saturated palette: O red, H white, C black, N blue (NH3 blue), others saturated defaults
+  const elementColors = {
+    H: 0xffffff, // Hydrogen -> white
+    C: 0x111111, // Carbon -> black
+    N: 0x0033ff, // Nitrogen -> saturated blue
+    O: 0xff0000, // Oxygen -> red
+    S: 0xffd86b,
+    P: 0xffa966,
+    F: 0x00cc66,
+    Cl: 0x00cc66,
+    Default: 0x9aa6b2
+  };
+  // atomic radii (Å) used for sphere sizes and bonding thresholds
+  const atomicRad = { H:0.53, C:0.70, N:0.65, O:0.60, S:1.04, P:1.00, F:0.57, Cl:0.99 };
+  // scale factor to make spheres visually larger on screen
+  const ATOM_SCALE = 1.0;
 
   function initThree(){
     if(renderer) return;
@@ -33,8 +47,10 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
     try{ controls = new THREE.OrbitControls(camera, renderer.domElement); controls.enableDamping = true; controls.dampingFactor = 0.08; }catch(e){ console.warn('OrbitControls not available', e); }
 
-    const hemi = new THREE.HemisphereLight(0xffffff, 0x080820, 0.6); scene.add(hemi);
-    const key = new THREE.DirectionalLight(0xffffff, 1.0); key.position.set(5,10,7); scene.add(key);
+  const hemi = new THREE.HemisphereLight(0xffffff, 0x080820, 0.9); scene.add(hemi);
+  const key = new THREE.DirectionalLight(0xffffff, 0.6); key.position.set(5,10,7); scene.add(key);
+  // small ambient to lift shadows and favor diffuse appearance
+  const amb = new THREE.AmbientLight(0xffffff, 0.12); scene.add(amb);
 
     atomGroup = new THREE.Group(); scene.add(atomGroup);
 
@@ -86,8 +102,18 @@ document.addEventListener('DOMContentLoaded', ()=>{
     diag.parsed = atoms.length; return {atoms,diag};
   }
 
-  function sphereMesh(el,x,y,z){ const radius=(covRad[el]||0.7)*0.6; const geo=new THREE.SphereGeometry(radius,36,24); const color = elementColors[el]||0x8b8f95; const mat=new THREE.MeshStandardMaterial({color:color, metalness:0.12, roughness:0.36}); const m=new THREE.Mesh(geo,mat); m.position.set(x,y,z); return m; }
-  function cylinderBetween(a,b, radius=0.08){ const v1=new THREE.Vector3(a.x,a.y,a.z); const v2=new THREE.Vector3(b.x,b.y,b.z); const dir=new THREE.Vector3().subVectors(v2,v1); const len=dir.length(); const mid=new THREE.Vector3().addVectors(v1,v2).multiplyScalar(0.5); const geo=new THREE.CylinderGeometry(radius,radius,len,12); const mat=new THREE.MeshStandardMaterial({color:0x9aa6b2, metalness:0.08, roughness:0.5}); const mesh=new THREE.Mesh(geo,mat); mesh.position.copy(mid); mesh.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0), dir.clone().normalize()); return mesh; }
+  function sphereMesh(el,x,y,z){
+    const base = (atomicRad[el]||0.7);
+    const radius = Math.max(0.08, base * ATOM_SCALE);
+  const geo = new THREE.SphereGeometry(radius, 36, 24);
+  const color = elementColors[el]||0x8b8f95;
+  // favor Lambert-like diffuse: no metalness, maximum roughness and no env contribution
+  const mat = new THREE.MeshStandardMaterial({color:color, metalness:0.0, roughness:1.0, envMapIntensity:0.0});
+    const m = new THREE.Mesh(geo,mat);
+    m.position.set(x,y,z);
+    return m;
+  }
+  function cylinderBetween(a,b, radius=0.08){ const v1=new THREE.Vector3(a.x,a.y,a.z); const v2=new THREE.Vector3(b.x,b.y,b.z); const dir=new THREE.Vector3().subVectors(v2,v1); const len=dir.length(); const mid=new THREE.Vector3().addVectors(v1,v2).multiplyScalar(0.5); const geo=new THREE.CylinderGeometry(radius,radius,len,12); const mat=new THREE.MeshStandardMaterial({color:0x9aa6b2, metalness:0.0, roughness:1.0, envMapIntensity:0.0}); const mesh=new THREE.Mesh(geo,mat); mesh.position.copy(mid); mesh.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0), dir.clone().normalize()); return mesh; }
 
   function computeRMSD(aAtoms,bAtoms){ const n=Math.min(aAtoms.length,bAtoms.length); if(n===0) return NaN; let sum=0; for(let i=0;i<n;i++){ const dx=aAtoms[i].x-bAtoms[i].x; const dy=aAtoms[i].y-bAtoms[i].y; const dz=aAtoms[i].z-bAtoms[i].z; sum+=dx*dx+dy*dy+dz*dz; } return Math.sqrt(sum/n); }
 
@@ -191,7 +217,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     for(let i=0;i<aAtoms.length;i++){
       for(let j=i+1;j<aAtoms.length;j++){
         const a=aAtoms[i], c=aAtoms[j]; const dx=a.x-c.x, dy=a.y-c.y, dz=a.z-c.z; const d=Math.sqrt(dx*dx+dy*dy+dz*dz);
-        const r1=covRad[a.el]||0.7, r2=covRad[c.el]||0.7; const threshold=r1+r2+0.45; if(d>0.1 && d<threshold) atomGroup.add(cylinderBetween(a,c,0.06));
+  const r1=atomicRad[a.el]||0.7, r2=atomicRad[c.el]||0.7; const threshold=r1+r2+0.45; if(d>0.1 && d<threshold) atomGroup.add(cylinderBetween(a,c,0.06));
       }
     }
     // connection lines between corresponding atoms of A and B
