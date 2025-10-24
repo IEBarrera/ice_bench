@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   // atomic radii (Å) used for sphere sizes and bonding thresholds
   const atomicRad = { H:0.53, C:0.70, N:0.65, O:0.60, S:1.04, P:1.00, F:0.57, Cl:0.99 };
   // scale factor to make spheres visually larger on screen
-  const ATOM_SCALE = 1.6;
+  const ATOM_SCALE = 1.2;
 
   function initThree(){
     if(renderer) return;
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     try{ controls = new THREE.OrbitControls(camera, renderer.domElement); controls.enableDamping = true; controls.dampingFactor = 0.08; }catch(e){ console.warn('OrbitControls not available', e); }
 
     const hemi = new THREE.HemisphereLight(0xffffff, 0x080820, 0.6); scene.add(hemi);
-    const key = new THREE.DirectionalLight(0xffffff, 0.25); key.position.set(5,10,7); scene.add(key);
+    const key = new THREE.DirectionalLight(0xffffff, 0.1); key.position.set(5,10,7); scene.add(key);
 
     atomGroup = new THREE.Group(); scene.add(atomGroup);
 
