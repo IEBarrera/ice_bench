@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     try{ controls = new THREE.OrbitControls(camera, renderer.domElement); controls.enableDamping = true; controls.dampingFactor = 0.08; }catch(e){ console.warn('OrbitControls not available', e); }
 
   const hemi = new THREE.HemisphereLight(0xffffff, 0x080820, 0.9); scene.add(hemi);
-  const key = new THREE.DirectionalLight(0xffffff, 0.6); key.position.set(5,10,7); scene.add(key);
+  const key = new THREE.DirectionalLight(0xffffff, 0.35); key.position.set(5,10,7); scene.add(key);
   // small ambient to lift shadows and favor diffuse appearance
   const amb = new THREE.AmbientLight(0xffffff, 0.12); scene.add(amb);
 
