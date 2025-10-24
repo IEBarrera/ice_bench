@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   const geo = new THREE.SphereGeometry(radius, 36, 24);
     const color = elementColors[el]||0x8b8f95;
     // favor Lambert-like diffuse: no metalness, maximum roughness and no env contribution
-    const mat = new THREE.MeshPhysicalMaterial ({color:color, metalness:0.0, roughness:1.0, envMapIntensity:0.0});
+    const mat = new THREE.MeshStandardMaterial({color:color, metalness:0.0, roughness:1.0, envMapIntensity:0.0});
     const m = new THREE.Mesh(geo,mat);
     m.position.set(x,y,z);
     return m;
