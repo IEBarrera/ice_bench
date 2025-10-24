@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
    let lastBMaterials = [];
 
   const BG_COLOR = 0x08101a;
-  const GLOBAL_SATURATION = 3.5;
+  const GLOBAL_SATURATION = 2.0;
   // User-specified saturated palette: O red, H white, C black, N blue (NH3 blue), others saturated defaults
   const elementColors = {
     H: 0xffffff, // Hydrogen -> white
