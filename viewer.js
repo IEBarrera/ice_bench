@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
    let lastBMaterials = [];
 
   const BG_COLOR = 0x08101a;
-  const GLOBAL_SATURATION = 3.5;
+  const GLOBAL_SATURATION = 2.5;
   // User-specified saturated palette: O red, H white, C black, N blue (NH3 blue), others saturated defaults
   const elementColors = {
     H: 0xffffff, // Hydrogen -> white
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     try{ controls = new THREE.OrbitControls(camera, renderer.domElement); controls.enableDamping = true; controls.dampingFactor = 0.08; }catch(e){ console.warn('OrbitControls not available', e); }
 
     const hemi = new THREE.HemisphereLight(0xffffff, 0x080820, 0.6); scene.add(hemi);
-    const key = new THREE.DirectionalLight(0xffffff, 1.0); key.position.set(5,10,7); scene.add(key);
+    const key = new THREE.DirectionalLight(0xffffff, 0.25); key.position.set(5,10,7); scene.add(key);
 
     atomGroup = new THREE.Group(); scene.add(atomGroup);
 
