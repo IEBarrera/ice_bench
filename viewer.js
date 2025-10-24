@@ -107,18 +107,8 @@ document.addEventListener('DOMContentLoaded', ()=>{
     const radius = Math.max(0.08, base * ATOM_SCALE);
   const geo = new THREE.SphereGeometry(radius, 36, 24);
     const color = elementColors[el]||0x8b8f95;
-    // Use MeshPhysicalMaterial with transmission/thickness to approximate subsurface scattering
-    const mat = new THREE.MeshPhysicalMaterial({
-      color: color,
-      metalness: 0.0,
-      roughness: 0.9,
-      envMapIntensity: 0.0,
-      transmission: 0.55, // how much light passes through (0..1)
-      thickness: radius * 1.4, // approximate object thickness for attenuation
-      attenuationDistance: Math.max(0.1, radius * 2.0),
-      attenuationColor: new THREE.Color(color).multiplyScalar(0.9),
-      clearcoat: 0.0
-    });
+    // favor Lambert-like diffuse: no metalness, maximum roughness and no env contribution
+    const mat = new THREE.MeshPhysicalMaterial ({color:color, metalness:0.0, roughness:1.0, envMapIntensity:0.0});
     const m = new THREE.Mesh(geo,mat);
     m.position.set(x,y,z);
     return m;
